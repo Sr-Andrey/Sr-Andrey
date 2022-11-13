@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm   <font color=SteelBlue > Andrey </font>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">
+I implement projects to automate processes: from methodology to launching business processes.</h3>
+<br/>
+<h3 align="center">
 
-<!--
-**Sr-Andrey/Sr-Andrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study on my own:</h3>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="32"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="32"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="32"/>
+<br/><br/><br/><br/>
+<h3 > <font color= steelBlue >contacts : </font> &nbsp<a href= 'https://www.linkedin.com/in/andrey-sredin/'> <img src="https://img.shields.io/badge/AS-linkedin-blue" height="16" > </h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://github-readme-stats.vercel.app/api?Sr-Andreyanuraghazra&show_icons=true&theme=radical)
